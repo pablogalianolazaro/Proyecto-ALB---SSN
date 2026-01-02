@@ -6,7 +6,7 @@ from decimal import Decimal
 
 # ---------- CONFIGURACIÓN ----------
 TABLE_NAME = "InventoryPGL"
-SNS_TOPIC_ARN = "arn:aws:sns:us-east-1:XXXXXXXXXXXX:InventoryAlertsPGL" # SUSTITUIR XXXXXX por mi accountID
+SNS_TOPIC_ARN = "arn:aws:sns:us-east-1:338677173235:InventoryAlertsPGL"
 LOW_STOCK_THRESHOLD = 5
 
 # ---------- CLIENTES AWS ----------
